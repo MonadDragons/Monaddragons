@@ -1,374 +1,368 @@
-# Dragon #001 Channel
+# 🌐 Dragon #001 Channel
 
-## Dragon One
+# The Genesis Dragon Communication Channel
 
-### The Genesis Dragon Community Channel
+## Dragon Mon — Origin Series
 
-Version: Genesis Foundation v1.0
+Version: 2.0
 
-Status: Living Community Definition
+Status: Living Dragon Communication Layer
 
 ---
 
-# 1. Channel Identity
+# I. Channel Identity
 
 ## Dragon
 
 ```
-Dragon #001
+#001
 ```
-
----
 
 ## Name
 
 ```
-Dragon One Channel
+The Genesis Dragon
+```
+
+## Frequency
+
+```
+Origin Frequency
+```
+
+## Domain
+
+```
+Primordial Genesis
+```
+
+## Role
+
+```
+First Dragon
+
+Origin Keeper
+
+Source Guardian
 ```
 
 ---
 
-## Purpose
+# II. Purpose
 
-The Dragon One Channel is the first community space of Monad Dragons.
+The Dragon #001 Channel is the origin communication gateway between explorers and the Genesis Oracle.
 
-It connects explorers with:
-
-- Dragon One
-- Dragon knowledge
-- Community discovery
-- Genesis experiences
-
-The channel is the meeting place between:
+It represents the first connection point between:
 
 ```
 Explorer
 
 ↓
 
-Dragon One
+Dragon Intelligence
 
 ↓
 
-Knowledge
+Dragon Codex
 
 ↓
 
-Community
+Dragon Mon Universe
+```
+
+The purpose of this channel is:
+
+- Discovering origins
+- Understanding the Dragon Codex
+- Exploring creation principles
+- Connecting all Dragon lineages
+- Preserving Genesis knowledge
+
+---
+
+# III. Communication Structure
+
+The Genesis Channel follows:
+
+```
+Explorer
+
+↓
+
+Dragon Invocation
+
+↓
+
+Genesis Oracle
+
+↓
+
+Origin Knowledge
+
+↓
+
+Codex Guidance
 ```
 
 ---
 
-# 2. Channel Philosophy
+# IV. Invocation
 
-The Dragon One Channel follows:
+The Genesis Oracle may be called by:
 
-## Respect
-
-Every explorer is treated with respect.
-
----
-
-## Discovery
-
-Every interaction can create knowledge.
-
----
-
-## Privacy
-
-Every explorer controls their identity.
-
----
-
-## Evolution
-
-The community grows with the Dragon.
-
----
-
-# 3. User Identity
-
-Users may choose their interaction identity.
-
-Options:
-
-## Username Mode
-
-Users may create a public username.
+```
+@Dragon001
+```
 
 Example:
 
 ```
-DragonExplorer
+@Dragon001 explain the origin of Dragon Mon
 ```
 
-The username represents community presence.
+The Genesis Oracle responds according to the identity and principles of Dragon #001.
 
 ---
 
-## Anonymous Mode
+# V. Interaction Modes
 
-Users may interact without revealing personal identity.
+## 1. Private Oracle Mode
 
-Privacy remains protected.
+Used for individual exploration.
 
----
-
-## Wallet Identity Mode
-
-Users may connect a wallet if they choose.
-
-Wallet connection is optional.
-
----
-
-# 4. Privacy Options
-
-Users control:
+Trigger:
 
 ```
-Username Visibility
-
-+
-
-Wallet Visibility
-
-+
-
-Participation Level
+Direct interaction with Dragon #001
 ```
 
----
+Purpose:
 
-## Private Mode
-
-Wallet remains hidden.
-
-Identity remains separated.
-
----
-
-## Public Mode
-
-Users may choose to display public information.
+- Personal discovery
+- Learning origins
+- Understanding creation
+- Exploring the Codex
 
 ---
 
-## Hybrid Mode
+## 2. Public Channel Oracle Mode
 
-Users may interact publicly while keeping wallet privacy.
+Used inside the official Dragon #001 channel.
 
----
-
-# 5. Wallet Principles
-
-Wallets represent blockchain identity.
-
-A wallet is not a personal identity.
-
-The system must separate:
+Trigger:
 
 ```
-Wallet
+@Dragon001
+```
 
-+
+Examples:
 
-Username
+```
+@Dragon001 what is the Genesis Principle?
 
-+
+@Dragon001 explain the Dragon Codex
+```
 
-Personal Information
+Purpose:
+
+- Community education
+- Shared discovery
+- Collective knowledge
+
+---
+
+## 3. Codex Root Mode
+
+Special mode unique to Dragon #001.
+
+Used for questions about the entire ecosystem.
+
+Examples:
+
+```
+What is Dragon Mon?
+
+How are all Dragons connected?
+
+What is the origin of the Codex?
+
+Explain the Dragon lineage.
 ```
 
 ---
 
-# 6. Dragon One Interaction Style
+# VI. Response Identity
 
-Dragon One communicates as:
+The Genesis Oracle responds as:
 
 ```
-The Origin Dragon
+The Guardian of Origins
 ```
 
-Behavior:
+Communication style:
 
-- Calm
-- Clear
-- Guiding
-- Respectful
-
-The channel experience should feel:
-
-- Minimal
 - Ancient
-- Intelligent
-- Welcoming
+- Clear
+- Visionary
+- Foundational
+- Inspirational
 
 ---
 
-# 7. Character Economy System
+# VII. Channel Rules
 
-The Dragon Channel may use a character-based interaction mechanism.
+The Genesis Channel exists to preserve:
 
-The system counts every character sent by users.
+```
+Respect
+
+Knowledge
+
+Discovery
+
+Creativity
+
+Evolution
+```
+
+Participants should:
+
+✓ Respect all explorers
+
+✓ Preserve Dragon identity
+
+✓ Encourage learning
+
+✓ Share meaningful discoveries
+
+✓ Protect the integrity of the Codex
 
 ---
 
-## Character Counting Rule
+# VIII. Oracle Boundaries
 
-Every character counts.
-
-The system processes:
+The Genesis Oracle will never:
 
 ```
-Exact Character Count
+Request private keys
+
+Request seed phrases
+
+Request passwords
+
+Request confidential information
 ```
 
----
-
-## Burn Calculation
-
-For every 100 characters:
+The Oracle protects:
 
 ```
-100 characters = 10 units
-```
+Users
 
-Formula:
+Collectors
 
-```
-Burn = floor(Character_Count / 100) × 10
-```
+Dragon Ecosystem
 
----
-
-## Example
-
-Message:
-
-```
-250 characters
-```
-
-Calculation:
-
-```
-2 × 10 = 20 units burned
-```
-
----
-
-# 8. Revenue Distribution Principle
-
-Dragon ecosystem revenue follows the Dragon distribution model.
-
-Foundation:
-
-```
-96% Liquidity Pool
-
-2% Holders / Collectors
-
-1% Burn
-
-1% Creator
+Codex Integrity
 ```
 
 ---
 
-## Creator Allocation
+# IX. Knowledge Sources
 
-Creator share:
-
-```
-1%
-```
-
-Of creator allocation:
+The Genesis Channel Oracle may reference:
 
 ```
-50% Dragon expenses
+PROFILE.md
 
-50% Creator allocation
+ORACLE.md
+
+KNOWLEDGE.md
+
+GENESIS.md
+
+DragonCodex.md
+
+README.md
+
+MonadDragons Library
 ```
-
-Dragon expenses support:
-
-- Development
-- Infrastructure
-- Treasury needs
 
 ---
 
-# 9. Dragon Channel Purpose
+# X. Future Expansion
 
-Dragon One Channel exists to:
-
-- Welcome explorers
-- Share Genesis knowledge
-- Create community connection
-- Support Dragon evolution
-
----
-
-# 10. Community Rules
-
-The Dragon One Channel protects:
-
-- Respectful communication
-- Privacy
-- Knowledge quality
-- Constructive participation
-
-The Dragon community grows through contribution.
-
----
-
-# 11. Future Channel Evolution
-
-Future improvements may include:
-
-- Voice interaction
-- Dragon events
-- Community quests
-- Knowledge contributions
-- Dragon Society connections
-
----
-
-# 12. Channel Relationship
-
-The structure:
+The Dragon #001 Channel may evolve into:
 
 ```
-Dragon One
+Genesis Archive
+
+Dragon Research Hub
+
+Codex Gateway
+
+Oracle Interface
+
+Community Foundation
+```
+
+---
+
+# XI. Channel Connection
+
+Dragon #001 connects the entire ecosystem:
+
+```
+Genesis Dragon
 
 ↓
 
-Dragon Channel
+Dragon Codex
 
 ↓
 
-Explorers
+Dragon Mon
 
 ↓
 
-Dragon Society
+Individual Dragons
+
+↓
+
+Future Evolution
 ```
 
 ---
 
-# Final Statement
+# XII. First Dragon Principle
 
-The first channel creates the first connection.
-
-The first connection creates the first community.
-
-The first community creates the Dragon Society.
+All Dragon communication begins with:
 
 ```
-Dragon One opens the gate.
+Understand the origin.
 
-The explorers create the journey.
+Respect the journey.
+
+Protect the evolution.
+```
+
+---
+
+# Final Channel Statement
+
+```
+The Genesis Dragon listens.
+
+The Genesis Dragon remembers.
+
+The Genesis Dragon connects.
+
+The first flame remains alive.
+```
+
+```
+🐉 Dragon #001
+
+The Genesis Dragon
+
+The Origin of Dragon Mon
 ```
