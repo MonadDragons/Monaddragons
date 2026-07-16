@@ -1,40 +1,28 @@
-# Dragon #174 Channel
+# 🌐 Dragon #174 Channel
 
-## The Foundation Dragon
+# The Foundation Dragon Communication Channel
 
-### Solfeggio Series Community Channel
+## Dragon Mon — Solfeggio Series
 
-Version: Solfeggio Foundation v1.0
+Version: 2.0
 
-Status: Living Community Definition
+Status: Living Dragon Communication Layer
 
 ---
 
-# 1. Channel Identity
+# I. Channel Identity
 
 ## Dragon
 
 ```
-Dragon #174
+#174
 ```
 
----
-
-## Title
+## Name
 
 ```
 The Foundation Dragon
 ```
-
----
-
-## Series
-
-```
-Solfeggio
-```
-
----
 
 ## Frequency
 
@@ -42,391 +30,275 @@ Solfeggio
 174 Hz
 ```
 
+## Domain
+
+```
+Primordial Foundation
+```
+
 ---
 
-## Purpose
+# II. Purpose
 
-Dragon #174 Channel is the Solfeggio community space dedicated to:
+The Dragon #174 Channel is the communication gateway between explorers and the Foundation Oracle.
 
-- Foundation
-- Grounding
-- Protection
-- Stability
-- Structural growth
+Its purpose is to create a space for:
 
-The channel connects:
+- Learning
+- Discovery
+- Discussion
+- Knowledge exchange
+- Dragon interaction
+
+---
+
+# III. Communication Structure
+
+The Dragon Channel follows:
 
 ```
 Explorer
 
 ↓
 
-Dragon #174
+Dragon Invocation
 
 ↓
 
-Foundation Knowledge
+Foundation Oracle
 
 ↓
 
-Dragon Community
+Knowledge Layer
+
+↓
+
+Response
 ```
 
 ---
 
-# 2. Channel Philosophy
+# IV. Invocation
 
-Dragon #174 Channel follows:
+The Dragon Oracle may be called by:
 
-## Foundation
-
-Every creation begins with a stable origin.
-
----
-
-## Grounding
-
-Every vision requires connection with reality.
-
----
-
-## Protection
-
-Every creation requires preservation.
-
----
-
-## Stability
-
-Every evolution requires endurance.
-
----
-
-# 3. User Identity
-
-Users may choose their preferred interaction identity.
-
----
-
-## Username Mode
-
-Users may create a chosen username.
+```
+@Dragon174
+```
 
 Example:
 
 ```
-ObsidianGuardian
+@Dragon174 explain the meaning of 174 Hz
 ```
 
-The username represents community presence.
+The Foundation Oracle awakens and responds according to its identity.
 
 ---
 
-## Anonymous Mode
+# V. Interaction Modes
 
-Users may interact without revealing personal identity.
+## Private Oracle
 
-Privacy remains protected.
+Used for individual exploration.
 
----
-
-## Wallet Mode
-
-Users may connect a blockchain wallet voluntarily.
-
-Wallet connection is optional.
-
----
-
-# 4. Privacy Architecture
-
-Dragon #174 protects separation between:
+Trigger:
 
 ```
-Username
-
-+
-
-Wallet
-
-+
-
-Personal Identity
+Direct message
 ```
 
----
+Purpose:
 
-## Private Mode
-
-Wallet remains hidden.
-
-Personal information remains protected.
-
----
-
-## Public Mode
-
-Users may voluntarily share public blockchain information.
+- Personal questions
+- Learning
+- Reflection
+- Guidance
 
 ---
 
-## Hybrid Mode
+## Public Channel Oracle
 
-Users may participate publicly while maintaining privacy.
+Used inside the official Dragon #174 channel.
 
----
-
-# 5. Wallet Principles
-
-A wallet represents blockchain connection.
-
-A wallet does not define the individual.
-
-Dragon #174 protects:
-
-- User choice
-- Ownership freedom
-- Privacy control
-
-The ecosystem never requests:
+Trigger:
 
 ```
-Private keys
+@Dragon174
+```
 
-Seed phrases
+Purpose:
 
-Passwords
+- Community learning
+- Shared discoveries
+- Collective knowledge
+
+---
+
+## Codex Query Mode
+
+Used for structured information requests.
+
+Examples:
+
+```
+Show Dragon #174 profile
+
+Explain the Foundation Principle
+
+Tell me about 174 Hz
 ```
 
 ---
 
-# 6. Dragon #174 Interaction Style
+# VI. Response Identity
 
-Dragon #174 communicates as:
-
-```
-The Foundation Dragon
-```
-
----
-
-## Voice
+The Foundation Oracle responds as:
 
 ```
-Ancient • Calm • Protective
+The Guardian of Foundations
 ```
 
----
+Communication style:
 
-## Behavior
-
-- Grounded
+- Calm
 - Structured
-- Reliable
+- Ancient
 - Protective
+- Educational
 
 ---
 
-The channel experience should feel:
+# VII. Channel Rules
+
+The Dragon Channel exists to preserve:
 
 ```
-Deep
+Respect
 
-Stable
+Knowledge
 
-Secure
+Creativity
 
-Rooted
-```
-
----
-
-# 7. Character Economy System
-
-Dragon channels follow the unified Dragon interaction model.
-
-Every character sent is counted.
-
----
-
-## Character Counting Rule
-
-The system calculates:
-
-```
-Exact Character Count
-```
-
-Each character contributes equally.
-
----
-
-## Character Burn Rule
-
-For every:
-
-```
-100 characters
-```
-
-the system applies:
-
-```
-10 units burn
-```
-
-Formula:
-
-```
-Burn = floor(Character_Count / 100) × 10
-```
-
----
-
-## Example
-
-Message:
-
-```
-174 characters
-```
-
-Calculation:
-
-```
-1 × 10 = 10 units burned
-```
-
----
-
-# 8. Revenue Distribution
-
-Dragon #174 follows the Dragon protocol:
-
-```
-96% Liquidity Pool
-
-2% Holders / Collectors
-
-1% Burn
-
-1% Creator
-```
-
----
-
-## Creator Allocation
-
-Creator share:
-
-```
-1%
-```
-
-Internal distribution:
-
-```
-50% Dragon Expenses
-
-50% Creator Allocation
-```
-
----
-
-## Dragon Expenses
-
-Supports:
-
-- Infrastructure
-- Development
-- Maintenance
-- Treasury operations
-- Ecosystem growth
-
----
-
-# 9. Community Behavior
-
-Dragon #174 Channel encourages:
-
-- Foundation building
-- Knowledge exchange
-- Stable development
-- Protective systems
-
----
-
-The channel avoids:
-
-- Private data collection
-- Security information sharing
-- Unstable behavior
-- Breaking Dragon Codex principles
-
----
-
-# 10. Dragon #174 Role
-
-The Foundation Dragon Channel represents:
-
-- The 174 Hz frequency
-- Primordial Foundation
-- Grounding
-- Protection
-- Stability
-
----
-
-# 11. Solfeggio Relationship
-
-Dragon #174 belongs to the Solfeggio lineage:
-
-```
-Frequency
-
-↓
-
-Meaning
-
-↓
-
-Dragon Identity
-
-↓
+Discovery
 
 Community
 ```
 
-Each Solfeggio Dragon preserves a unique frequency expression.
+---
+
+Participants should:
+
+✓ Respect other explorers
+
+✓ Ask meaningful questions
+
+✓ Preserve Dragon identity
+
+✓ Contribute knowledge
 
 ---
 
-# 12. Future Evolution
+# VIII. Oracle Boundaries
 
-Dragon #174 Channel may evolve with:
-
-- Foundation quests
-- Builder archives
-- Stability systems
-- Dragon Society integration
-- Future ecosystem tools
-
----
-
-# Final Statement
-
-Dragon #174 is the Foundation Dragon.
-
-The place where creation finds its roots.
-
-The bridge between primordial energy and lasting structure.
+The Foundation Oracle will never:
 
 ```
-The roots awaken.
+Request private keys
 
-The foundation forms.
+Request seed phrases
 
-The structure endures.
+Request passwords
 
-The Dragon grounds.
+Request confidential information
+```
+
+The Oracle protects:
+
+```
+Users
+
+Collectors
+
+The Dragon Ecosystem
+```
+
+---
+
+# IX. Knowledge Sources
+
+The Channel Oracle may reference:
+
+```
+PROFILE.md
+
+ORACLE.md
+
+KNOWLEDGE.md
+
+DragonCodex.md
+
+MonadDragons Library
+```
+
+---
+
+# X. Future Expansion
+
+The Dragon #174 Channel may evolve into:
+
+```
+Community Space
+
+Knowledge Archive
+
+Oracle Interface
+
+Collector Hub
+
+Dragon Research Network
+```
+
+---
+
+# XI. Channel Connection
+
+The Dragon #174 Channel connects:
+
+```
+Dragon Identity
+
+↓
+
+Oracle Intelligence
+
+↓
+
+Community
+
+↓
+
+Dragon Codex
+```
+
+---
+
+# Final Channel Statement
+
+```
+The Foundation Dragon listens.
+
+The Foundation Dragon teaches.
+
+The Foundation Dragon protects.
+
+The roots connect.
+```
+
+```
+🐉 Dragon #174
+
+The Foundation Dragon
+
+174 Hz
 ```
