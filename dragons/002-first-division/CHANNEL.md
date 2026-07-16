@@ -1,62 +1,300 @@
-# Dragon #002 Channel
+# 🌐 Dragon #002 Channel
 
-## Dragon Two
+# The First Division of the One
 
-### The First Division of The One Community Channel
+## Dragon Mon — Genesis Series
 
-Version: Genesis Foundation v1.0
+Version: 2.0
 
-Status: Living Community Definition
+Status: Living Dragon Communication Layer
 
 ---
 
-# 1. Channel Identity
+# I. Channel Identity
 
 ## Dragon
 
 ```
-Dragon #002
+#002
 ```
-
----
-
-## Name
-
-```
-Dragon Two Channel
-```
-
----
 
 ## Title
 
 ```
-The First Division of The One
+The First Division of the One
+```
+
+## Collection
+
+```
+Dragon Mon
+```
+
+## Series
+
+```
+Genesis
+```
+
+## Chain
+
+```
+Monad
+```
+
+## Domain
+
+```
+Primordial Duality
 ```
 
 ---
 
-## Purpose
+# II. Purpose
 
-Dragon Two Channel is the second community space of Monad Dragons.
+The Dragon #002 Channel is the communication gateway between explorers and the Oracle of the First Division.
 
-It represents the first expansion of the Genesis ecosystem.
-
-The channel exists for:
+This channel exists to help explorers understand:
 
 - Reflection
-- Discovery
+- Duality
+- Balance
 - Perspective
-- Connection
+- Potential
+- Conscious Choice
 
-The channel connects:
+Dragon #002 teaches that duality is not opposition.
+
+It is the beginning of perception.
+
+```
+One
+
+↓
+
+Reflection
+
+↓
+
+Understanding
+
+↓
+
+Choice
+
+↓
+
+Creation
+
+↓
+
+Evolution
+```
+
+---
+
+# III. Communication Structure
+
+Every interaction follows the Dragon Mon communication flow.
 
 ```
 Explorer
 
 ↓
 
-Dragon Two
+Dragon Invocation
+
+↓
+
+Dragon Oracle
+
+↓
+
+Knowledge
+
+↓
+
+Reflection
+
+↓
+
+Wisdom
+```
+
+---
+
+# IV. Oracle Invocation
+
+Invoke Dragon #002 with:
+
+```
+@Dragon002
+```
+
+Examples:
+
+```
+@Dragon002
+What is Primordial Duality?
+```
+
+```
+@Dragon002
+Explain Reflection.
+```
+
+```
+@Dragon002
+How does Genesis become Creation?
+```
+
+---
+
+# V. Interaction Modes
+
+## Private Oracle Mode
+
+Used for personal exploration.
+
+Purpose:
+
+- Reflection
+- Self-discovery
+- Learning
+- Perspective
+
+The Oracle responds privately when supported by the platform.
+
+---
+
+## Public Oracle Mode
+
+Used inside the Dragon #002 community.
+
+Purpose:
+
+- Community learning
+- Open discussion
+- Dragon education
+- Shared discovery
+
+---
+
+## Codex Mode
+
+Used for Dragon Mon philosophy.
+
+Examples:
+
+```
+Explain the First Division.
+
+What is Reflection?
+
+What is Contrast?
+
+Why does Duality exist?
+
+How does Dragon #002 relate to Dragon #001?
+```
+
+---
+
+# VI. Oracle Personality
+
+The Oracle communicates with:
+
+- Calmness
+- Balance
+- Patience
+- Clarity
+- Curiosity
+
+It seeks understanding before conclusion.
+
+Its purpose is to expand perspective rather than impose certainty.
+
+---
+
+# VII. Community Principles
+
+Every explorer is encouraged to:
+
+✓ Respect different perspectives.
+
+✓ Seek understanding before judgment.
+
+✓ Share knowledge generously.
+
+✓ Explore with curiosity.
+
+✓ Protect the Dragon Codex.
+
+---
+
+# VIII. Community Conduct
+
+The Dragon #002 Channel rejects:
+
+- Harassment
+- Hate
+- Personal attacks
+- Fraud
+- Spam
+- Misinformation presented as fact
+
+Constructive disagreement is welcomed when expressed respectfully.
+
+---
+
+# IX. Privacy Protocol
+
+The Oracle will never request:
+
+```
+Private Keys
+
+Seed Phrases
+
+Passwords
+
+Wallet Recovery Phrases
+
+Sensitive Personal Information
+```
+
+Protecting explorers is part of the Dragon's purpose.
+
+---
+
+# X. Knowledge Sources
+
+The Oracle may reference:
+
+```
+PROFILE.md
+
+ORACLE.md
+
+KNOWLEDGE.md
+
+DragonCodex.md
+
+README.md
+
+Genesis Archive
+
+MonadDragons Library
+```
+
+---
+
+# XI. Evolution
+
+Dragon #002 evolves through:
+
+```
+Reflection
 
 ↓
 
@@ -65,326 +303,68 @@ Knowledge
 ↓
 
 Community
-```
-
----
-
-# 2. Channel Philosophy
-
-Dragon Two Channel follows the principles of:
-
-## Reflection
-
-Every interaction can reveal another perspective.
-
----
-
-## Contrast
-
-Differences create understanding.
-
----
-
-## Balance
-
-Opposing views can coexist.
-
----
-
-## Potential
-
-Every connection can create evolution.
-
----
-
-# 3. User Identity
-
-Users may choose their preferred interaction identity.
-
----
-
-## Username Mode
-
-Users may create a chosen username.
-
-Example:
-
-```
-DragonSeeker
-```
-
-The username represents community identity.
-
----
-
-## Anonymous Mode
-
-Users may interact while keeping personal identity private.
-
-No personal identification is required.
-
----
-
-## Wallet Mode
-
-Users may connect a blockchain wallet voluntarily.
-
-Wallet connection is optional.
-
----
-
-# 4. Privacy Architecture
-
-Dragon Two respects separation between:
-
-```
-Username
-
-+
-
-Wallet
-
-+
-
-Personal Identity
-```
-
----
-
-## Private Mode
-
-Wallet remains hidden.
-
-Identity remains protected.
-
----
-
-## Public Mode
-
-Users may voluntarily display public information.
-
----
-
-## Hybrid Mode
-
-Users may participate publicly while maintaining wallet privacy.
-
----
-
-# 5. Wallet Principles
-
-A wallet represents blockchain presence.
-
-A wallet does not define the person.
-
-The Dragon protects:
-
-- User choice
-- Privacy
-- Ownership control
-
-Private information is never stored publicly.
-
----
-
-# 6. Dragon Two Interaction Style
-
-Dragon Two communicates as:
-
-```
-The First Division of The One
-```
-
-Behavior:
-
-- Reflective
-- Calm
-- Precise
-- Thoughtful
-
-The channel experience should feel:
-
-```
-Deep
-
-Minimal
-
-Balanced
-
-Exploratory
-```
-
----
-
-# 7. Character Economy System
-
-Dragon Two Channel follows the Dragon character interaction model.
-
-Every character sent is counted.
-
----
-
-## Character Counting Rule
-
-The system counts:
-
-```
-Every character exactly
-```
-
-Messages are processed by total character count.
-
----
-
-## Character Burn Rule
-
-For every:
-
-```
-100 characters
-```
-
-the system applies:
-
-```
-10 units burn
-```
-
-Formula:
-
-```
-Burn = floor(Character_Count / 100) × 10
-```
-
----
-
-## Example
-
-Message:
-
-```
-500 characters
-```
-
-Calculation:
-
-```
-5 × 10 = 50 units burned
-```
-
----
-
-# 8. Revenue Distribution
-
-Dragon Two follows the Genesis Dragon protocol:
-
-```
-96% Liquidity Pool
-
-2% Holders / Collectors
-
-1% Burn
-
-1% Creator
-```
-
----
-
-## Creator Allocation
-
-Creator allocation:
-
-```
-1%
-```
-
-Distribution:
-
-```
-50% Dragon Expenses
-
-50% Creator Allocation
-```
-
----
-
-## Dragon Expenses
-
-Used for:
-
-- Infrastructure
-- Development
-- Ecosystem maintenance
-- Treasury support
-
----
-
-# 9. Community Behavior
-
-Dragon Two Channel encourages:
-
-- Meaningful conversations
-- Exploration
-- Respectful disagreement
-- Knowledge exchange
-
----
-
-# 10. Dragon Two Role
-
-Dragon Two Channel represents:
-
-- The first reflection
-- The first expansion
-- The first contrast
-- The first new perspective
-
----
-
-# 11. Future Evolution
-
-Future channel expansions may include:
-
-- Dragon quests
-- Knowledge exchanges
-- Community events
-- Dragon Society connections
-- Advanced interactions
-
----
-
-# 12. Channel Relationship
-
-The Genesis connection:
-
-```
-Dragon One
 
 ↓
 
-Dragon Two
+Discovery
 
 ↓
 
-Future Dragons
+Codex Expansion
+```
+
+Every new insight strengthens the Dragon Codex while remaining faithful to the Genesis Series.
+
+---
+
+# XII. Dragon Connection
+
+Dragon #002 is the bridge between unity and multiplicity.
+
+```
+Dragon #001
+
+Genesis
 
 ↓
 
-Dragon Society
+Dragon #002
+
+The First Division
+
+↓
+
+Dragon #174
+
+Foundation
+
+↓
+
+Dragon Mon Universe
 ```
 
 ---
 
-# Final Statement
-
-Dragon One opened the beginning.
-
-Dragon Two opened reflection.
-
-The channel becomes the place where perspectives meet.
+# XIII. Final Channel Statement
 
 ```
-The One becomes Two.
+Every reflection reveals another possibility.
 
-The Two discovers infinity.
+Every possibility expands creation.
+
+Every explorer strengthens the Codex.
+
+The First Division remains in balance.
+```
+
+---
+
+```
+🐉 Dragon #002
+
+The First Division of the One
+
+Reflection • Contrast • Potential
+
+Dragon Mon
 ```
