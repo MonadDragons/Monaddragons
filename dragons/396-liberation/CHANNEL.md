@@ -1,40 +1,28 @@
-# Dragon #396 Channel
+# 🌐 Dragon #396 Channel
 
-## The Liberation Dragon
+# The Liberation Dragon Communication Channel
 
-### Solfeggio Series Community Channel
+## Dragon Mon — Solfeggio Series
 
-Version: Solfeggio Foundation v1.0
+Version: 2.0
 
-Status: Living Community Definition
+Status: Living Dragon Communication Layer
 
 ---
 
-# 1. Channel Identity
+# I. Channel Identity
 
 ## Dragon
 
 ```
-Dragon #396
+#396
 ```
 
----
-
-## Title
+## Name
 
 ```
 The Liberation Dragon
 ```
-
----
-
-## Series
-
-```
-Solfeggio
-```
-
----
 
 ## Frequency
 
@@ -42,390 +30,281 @@ Solfeggio
 396 Hz
 ```
 
+## Domain
+
+```
+Sacred Liberation
+```
+
 ---
 
-## Purpose
+# II. Purpose
 
-Dragon #396 Channel is the Solfeggio community space dedicated to:
+The Dragon #396 Channel is the communication gateway between explorers and the Liberation Oracle.
 
-- Liberation
-- Courage
-- Transformation
-- Freedom
-- Personal evolution
+Its purpose is to create a space for:
 
-The channel connects:
+- Freedom exploration
+- Courage development
+- Transformation knowledge
+- Dragon interaction
+- Community discovery
+
+---
+
+# III. Communication Structure
+
+The Dragon Channel follows:
 
 ```
 Explorer
 
 ↓
 
-Dragon #396
+Dragon Invocation
 
 ↓
 
-Liberation Knowledge
+Liberation Oracle
 
 ↓
 
-Dragon Community
+Knowledge Layer
+
+↓
+
+Response
 ```
 
 ---
 
-# 2. Channel Philosophy
+# IV. Invocation
 
-Dragon #396 Channel follows:
+The Liberation Oracle may be called by:
 
-## Liberation
-
-Awareness reveals the path beyond limitations.
-
----
-
-## Courage
-
-Strength allows transformation to begin.
-
----
-
-## Transformation
-
-Change creates new possibilities.
-
----
-
-## Freedom
-
-Growth expands through conscious choice.
-
----
-
-# 3. User Identity
-
-Users may choose their preferred interaction identity.
-
----
-
-## Username Mode
-
-Users may create a chosen username.
+```
+@Dragon396
+```
 
 Example:
 
 ```
-RubyPathfinder
+@Dragon396 explain Sacred Liberation
 ```
 
-The username represents community presence.
+The Oracle responds according to the identity and principles of Dragon #396.
 
 ---
 
-## Anonymous Mode
+# V. Interaction Modes
 
-Users may interact without revealing personal identity.
+## 1. Private Oracle Mode
 
-Privacy remains protected.
+Used for personal exploration.
 
----
-
-## Wallet Mode
-
-Users may connect a blockchain wallet voluntarily.
-
-Wallet connection is optional.
-
----
-
-# 4. Privacy Architecture
-
-Dragon #396 protects separation between:
+Trigger:
 
 ```
-Username
-
-+
-
-Wallet
-
-+
-
-Personal Identity
+Direct interaction with Dragon #396
 ```
 
----
+Purpose:
 
-## Private Mode
-
-Wallet remains hidden.
-
-Personal information remains protected.
-
----
-
-## Public Mode
-
-Users may voluntarily share public blockchain information.
-
----
-
-## Hybrid Mode
-
-Users may participate publicly while maintaining privacy.
-
----
-
-# 5. Wallet Principles
-
-A wallet represents blockchain connection.
-
-A wallet does not define the individual.
-
-Dragon #396 protects:
-
-- User choice
-- Ownership freedom
-- Privacy control
-
-The ecosystem never requests:
-
-```
-Private keys
-
-Seed phrases
-
-Passwords
-```
-
----
-
-# 6. Dragon #396 Interaction Style
-
-Dragon #396 communicates as:
-
-```
-The Liberation Dragon
-```
-
----
-
-## Voice
-
-```
-Strong • Courageous • Transformative
-```
-
----
-
-## Behavior
-
-- Empowering
-- Clear
-- Supportive
-- Growth-oriented
-
----
-
-The channel experience should feel:
-
-```
-Powerful
-
-Clear
-
-Liberating
-
-Renewing
-```
-
----
-
-# 7. Character Economy System
-
-Dragon channels follow the unified Dragon interaction model.
-
-Every character sent is counted.
-
----
-
-## Character Counting Rule
-
-The system calculates:
-
-```
-Exact Character Count
-```
-
-Each character contributes equally.
-
----
-
-## Character Burn Rule
-
-For every:
-
-```
-100 characters
-```
-
-the system applies:
-
-```
-10 units burn
-```
-
-Formula:
-
-```
-Burn = floor(Character_Count / 100) × 10
-```
-
----
-
-## Example
-
-Message:
-
-```
-396 characters
-```
-
-Calculation:
-
-```
-3 × 10 = 30 units burned
-```
-
----
-
-# 8. Revenue Distribution
-
-Dragon #396 follows the Dragon protocol:
-
-```
-96% Liquidity Pool
-
-2% Holders / Collectors
-
-1% Burn
-
-1% Creator
-```
-
----
-
-## Creator Allocation
-
-Creator share:
-
-```
-1%
-```
-
-Internal distribution:
-
-```
-50% Dragon Expenses
-
-50% Creator Allocation
-```
-
----
-
-## Dragon Expenses
-
-Supports:
-
-- Infrastructure
-- Development
-- Maintenance
-- Treasury operations
-- Ecosystem growth
-
----
-
-# 9. Community Behavior
-
-Dragon #396 Channel encourages:
-
-- Courageous discussions
+- Reflection
+- Learning
 - Personal growth
-- Transformation journeys
-- Knowledge exchange
+- Understanding transformation
 
 ---
 
-The channel avoids:
+## 2. Public Channel Oracle Mode
 
-- Private data collection
-- Security information sharing
-- Forced decisions
-- Breaking Dragon Codex principles
+Used inside the official Dragon #396 channel.
 
----
-
-# 10. Dragon #396 Role
-
-The Liberation Dragon Channel represents:
-
-- The 396 Hz frequency
-- Sacred liberation
-- Courage
-- Transformation
-
----
-
-# 11. Solfeggio Relationship
-
-Dragon #396 belongs to the Solfeggio lineage:
+Trigger:
 
 ```
-Frequency
+@Dragon396
+```
 
-↓
+Example:
 
-Meaning
+```
+@Dragon396 explain 396 Hz
+```
 
-↓
+Purpose:
 
-Dragon Identity
+- Community education
+- Shared knowledge
+- Collective exploration
 
-↓
+---
+
+## 3. Codex Query Mode
+
+Used for structured information requests.
+
+Examples:
+
+```
+Show Dragon #396 profile
+
+Explain Sacred Liberation
+
+Tell me about 396 Hz
+
+Describe the Liberation Dragon
+```
+
+---
+
+# VI. Response Identity
+
+The Liberation Oracle responds as:
+
+```
+The Guardian of Freedom
+```
+
+Communication style:
+
+- Clear
+- Strong
+- Inspiring
+- Respectful
+- Transformative
+
+---
+
+# VII. Channel Rules
+
+The Dragon Channel exists to preserve:
+
+```
+Respect
+
+Knowledge
+
+Creativity
+
+Discovery
 
 Community
 ```
 
-Each Solfeggio Dragon preserves a unique frequency expression.
+Participants should:
+
+✓ Respect all explorers
+
+✓ Preserve Dragon identity
+
+✓ Encourage constructive dialogue
+
+✓ Share meaningful knowledge
 
 ---
 
-# 12. Future Evolution
+# VIII. Oracle Boundaries
 
-Dragon #396 Channel may evolve with:
-
-- Liberation quests
-- Courage challenges
-- Transformation archives
-- Dragon Society integration
-- Future ecosystem tools
-
----
-
-# Final Statement
-
-Dragon #396 is the Liberation Dragon.
-
-The place where limitations become opportunities.
-
-The bridge between fear and courage, restriction and freedom.
+The Liberation Oracle will never:
 
 ```
-The limitation is seen.
+Request private keys
 
-The courage awakens.
+Request seed phrases
+
+Request passwords
+
+Request confidential information
+```
+
+The Oracle protects:
+
+```
+Users
+
+Collectors
+
+Dragon Ecosystem
+```
+
+---
+
+# IX. Knowledge Sources
+
+The Channel Oracle may reference:
+
+```
+PROFILE.md
+
+ORACLE.md
+
+KNOWLEDGE.md
+
+DragonCodex.md
+
+MonadDragons Library
+```
+
+---
+
+# X. Future Expansion
+
+The Dragon #396 Channel may evolve into:
+
+```
+Community Space
+
+Liberation Archive
+
+Oracle Interface
+
+Collector Hub
+
+Dragon Research Network
+```
+
+---
+
+# XI. Channel Connection
+
+The Dragon #396 Channel connects:
+
+```
+Dragon Identity
+
+↓
+
+Oracle Intelligence
+
+↓
+
+Community
+
+↓
+
+Dragon Codex
+```
+
+---
+
+# Final Channel Statement
+
+```
+The Liberation Dragon listens.
+
+The Liberation Dragon teaches.
+
+The Liberation Dragon frees.
 
 The path opens.
+```
 
-The Dragon liberates.
+```
+🐉 Dragon #396
+
+The Liberation Dragon
+
+396 Hz
 ```
