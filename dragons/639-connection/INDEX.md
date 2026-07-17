@@ -23,7 +23,7 @@ Dragon #639
 The Connection Dragon
 ```
 
-The Dragon of connection, harmony, and unity within the Solfeggio Dragon lineage.
+The Dragon of connection, compassion, and harmonious relationships within the Solfeggio Dragon lineage.
 
 ---
 
@@ -42,6 +42,8 @@ The Dragon of connection, harmony, and unity within the Solfeggio Dragon lineage
 **639 Hz**
 
 The frequency traditionally associated with connection, harmonious relationships, compassion, communication, and unity.
+
+Known as the frequency of connection, 639 Hz represents the energy that unites individuals, communities, and all forms of life through harmony and understanding.
 
 ---
 
@@ -73,21 +75,21 @@ Emerald Jade × Rose Quartz
 
 **Eyes**
 
-Infinite Emerald
+Radiant Emerald
 
 **Halo**
 
-Radiant Emerald Green
+Radiant Emerald Jade
 
 ---
 
 # 🌌 Purpose
 
-Dragon #639 represents the sacred frequency of connection.
+Dragon #639 embodies the frequency of Divine Connection.
 
-Its resonance symbolizes the invisible bonds that unite all beings, encouraging compassion, understanding, harmony, and cooperation.
+Its resonance strengthens relationships, encourages compassion, and inspires harmony between individuals, communities, and all forms of life.
 
-Through connection, separate forces become one.
+The Connection Dragon reminds all beings that unity creates strength and that every existence is connected through invisible bonds of energy.
 
 ---
 
@@ -120,6 +122,16 @@ Dragon #639 preserves the eternal vibration of connection for future generations
 852 Hz • Intuition
 
 963 Hz • Ascension
+
+---
+
+# 🐉 Eternal Collection
+
+Dragon Mon — Solfeggio Series
+
+A sacred sequence of harmonic frequencies, each represented by a unique Dragon Guardian on Monad.
+
+Each Dragon carries a distinct vibration, purpose, and divine archetype within the eternal Dragon Codex.
 
 ---
 
